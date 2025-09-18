@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/student.CISCPL44.001/LAB3/LAB3.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/student.CISCPL44.001/LAB3/LAB3.srcs/sim_1/new/tb_dec_2x4.v,1758190426,verilog,,,,tb_dec_2x4,,,,,,,,
+C:/Users/student.CISCPL44.001/LAB3/LAB3.srcs/sim_1/new/tb_dec_3x8.v,1757599491,verilog,,,,tb_dec_3x8,,,,,,,,
+C:/Users/student.CISCPL44.001/LAB3/LAB3.srcs/sources_1/new/dec_2x4.v,1757598009,verilog,,C:/Users/student.CISCPL44.001/LAB3/LAB3.srcs/sim_1/new/tb_dec_2x4.v,,dec_2x4,,,,,,,,
+C:/Users/student.CISCPL44.001/LAB3/LAB3.srcs/sources_1/new/dec_3x8.v,1757598394,verilog,,C:/Users/student.CISCPL44.001/LAB3/LAB3.srcs/sim_1/new/tb_dec_3x8.v,,dec_3x8,,,,,,,,
