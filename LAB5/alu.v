@@ -6,7 +6,7 @@ module alu (
 );
 localparam ADD = 3'b000,
            SUB = 3'b001,
-           AND = 3'b010,
+           AND = 3'b010
            OR  = 3'b011,    
            XOR = 3'b100,
            NOT = 3'b101,
