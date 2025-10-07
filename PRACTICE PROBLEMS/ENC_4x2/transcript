@@ -1,0 +1,67 @@
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.p_enc_4x2_tb
+# vsim -gui work.p_enc_4x2_tb 
+# Start time: 18:22:30 on Sep 29,2025
+# Loading work.p_enc_4x2_tb
+# Loading work.p_enc_4x2
+add wave -position insertpoint sim:/p_enc_4x2_tb/*
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v(20)
+#    Time: 20 ns  Iteration: 0  Instance: /p_enc_4x2_tb
+# 1
+# Break in Module p_enc_4x2_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v line 20
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.p_enc_4x2_tb
+# Loading work.p_enc_4x2
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v(23)
+#    Time: 20 ns  Iteration: 0  Instance: /p_enc_4x2_tb
+# 1
+# Break in Module p_enc_4x2_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v line 23
+quit -sim
+# End time: 18:29:39 on Sep 29,2025, Elapsed time: 0:07:09
+# Errors: 0, Warnings: 1
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_4x2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.p_enc_4x2_tb
+# vsim -gui work.p_enc_4x2_tb 
+# Start time: 18:33:37 on Sep 29,2025
+# Loading work.p_enc_4x2_tb
+# Loading work.p_enc_4x2
+add wave -position insertpoint sim:/p_enc_4x2_tb/*
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v(24)
+#    Time: 90 ns  Iteration: 0  Instance: /p_enc_4x2_tb
+# 1
+# Break in Module p_enc_4x2_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v line 24
+noforce sim:/p_enc_4x2_tb/i
+# End time: 18:49:20 on Sep 29,2025, Elapsed time: 0:15:43
+# Errors: 0, Warnings: 8

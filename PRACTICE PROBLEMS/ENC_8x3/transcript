@@ -1,0 +1,110 @@
+# Compile of mux.v was successful.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_8x3.v was successful.
+# Compile of p_enc_8x3_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.p_enc_8x3_tb
+# vsim -gui work.p_enc_8x3_tb 
+# Start time: 18:50:33 on Sep 29,2025
+# Loading work.p_enc_8x3_tb
+# Loading work.p_enc_8x3
+# Loading work.p_enc_4x2
+# Loading work.mux
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'a'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'b'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+add wave -position insertpoint sim:/p_enc_8x3_tb/*
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v(24)
+#    Time: 170 ns  Iteration: 0  Instance: /p_enc_8x3_tb
+# 1
+# Break in Module p_enc_8x3_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v line 24
+quit -sim
+# End time: 18:51:48 on Sep 29,2025, Elapsed time: 0:01:15
+# Errors: 0, Warnings: 7
+# Compile of mux.v was successful.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_8x3.v was successful.
+# Compile of p_enc_8x3_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.p_enc_8x3_tb
+# vsim -gui work.p_enc_8x3_tb 
+# Start time: 18:52:31 on Sep 29,2025
+# Loading work.p_enc_8x3_tb
+# Loading work.p_enc_8x3
+# Loading work.p_enc_4x2
+# Loading work.mux
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'a'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'b'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+add wave -position insertpoint sim:/p_enc_8x3_tb/*
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v(24)
+#    Time: 2570 ns  Iteration: 0  Instance: /p_enc_8x3_tb
+# 1
+# Break in Module p_enc_8x3_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v line 24
+# Compile of mux.v was successful.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_8x3.v was successful.
+# Compile of p_enc_8x3_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.p_enc_8x3_tb
+# Loading work.p_enc_8x3
+# Loading work.p_enc_4x2
+# Loading work.mux
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'a'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'b'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v(35)
+#    Time: 90 ns  Iteration: 0  Instance: /p_enc_8x3_tb
+# 1
+# Break in Module p_enc_8x3_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v line 35
+# Compile of mux.v was successful.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_8x3.v was successful.
+# Compile of p_enc_8x3_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.p_enc_8x3_tb
+# Loading work.p_enc_8x3
+# Loading work.p_enc_4x2
+# Loading work.mux
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'a'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'b'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+# Warning in wave window restart: (vish-4014) No objects found matching '/p_enc_8x3_tb/i'. 
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v(35)
+#    Time: 90 ns  Iteration: 0  Instance: /p_enc_8x3_tb
+# 1
+# Break in Module p_enc_8x3_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v line 35
+# Compile of mux.v was successful.
+# Compile of p_enc_4x2.v was successful.
+# Compile of p_enc_8x3.v was successful.
+# Compile of p_enc_8x3_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.p_enc_8x3_tb
+# Loading work.p_enc_8x3
+# Loading work.p_enc_4x2
+# Loading work.mux
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'a'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'b'. The port definition is at: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/mux.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /p_enc_8x3_tb/dut/m2 File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3.v Line: 37
+run -all
+# ** Note: $finish    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v(36)
+#    Time: 100 ns  Iteration: 0  Instance: /p_enc_8x3_tb
+# 1
+# Break in Module p_enc_8x3_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_8x3/p_enc_8x3_tb.v line 36
+# End time: 22:02:30 on Sep 29,2025, Elapsed time: 3:09:59
+# Errors: 0, Warnings: 3

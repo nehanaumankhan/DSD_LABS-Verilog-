@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vp_enc_4x2
+Z0 !s110 1759152739
+!i10b 1
+!s100 a9NHCc9?I4eU@H73nbOS51
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[]7cWF]gR_K6NZm559jn90
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2
+w1759151973
+8C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2.v
+FC:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2.v
+!i122 18
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1759152739.000000
+!s107 C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vp_enc_4x2_tb
+R0
+!i10b 1
+!s100 fj5MzbSP6738gEjkJ5j<i0
+R1
+IoE9NLo_YSlloeV]C]`:LI1
+R2
+R3
+w1759152734
+8C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v
+FC:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v
+!i122 19
+L0 3 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v|
+!i113 1
+R6
+R7

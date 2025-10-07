@@ -1,0 +1,15 @@
+{C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v} {1 {vlog -work work -stats=none {C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module p_enc_4x2_tb
+
+Top level modules:
+	p_enc_4x2_tb
+
+} {} {}} {C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2.v} {1 {vlog -work work -stats=none {C:/Users/Neha Nauman Khan/OneDrive/Desktop/Uni/Seventh Semester/DSD_LABS/DSD_LABS-Verilog-/PRACTICE PROBLEMS/ENC_4x2/p_enc_4x2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module p_enc_4x2
+
+Top level modules:
+	p_enc_4x2
+
+} {} {}}
