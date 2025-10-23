@@ -25,31 +25,20 @@ module ram_16x4_tb();
 
     initial begin
         // Initialize values
-        clk = 0;
-        rst = 1;
-        read_enable = 0;
-        write_enable = 0;
-        chip_select = 0;
-        address = 0;
-        d_in = 0;
-
+        clk = 0; rst = 1; read_enable = 0; write_enable = 0; chip_select = 0; address = 0; d_in = 0;
         // Reset RAM
-        #10 rst = 0;
-
+        @(posedge clk) rst = 0;
         // Write 1010 at address 3
-        #10 chip_select = 1; write_enable = 1; address = 4'd3; d_in = 4'b1010;
-
+        @(posedge clk) chip_select = 1; write_enable = 1; address = 4'd3; d_in = 4'b1010;
         // Stop writing
-        #10 write_enable = 0;
-
+        @(posedge clk) write_enable = 0;
         // Read from address 3
-        #10 read_enable = 1; address = 4'd3;
-
+        @(posedge clk) read_enable = 1; address = 4'd3;
         // Disable read
-        #10 read_enable = 0; chip_select = 0;
-
+        @(posedge clk) read_enable = 0; chip_select = 0;
+        @(posedge clk)
         // Finish simulation
-        #20 $stop;
+        $stop;
     end
 
 endmodule
