@@ -2,7 +2,7 @@ module ram_16x4(
     input        clk, rst,
     input        read_enable, write_enable, chip_select,
     input  [3:0] address,
-    inout  [3:0] data   // Bidirectional data bus
+    inout  [3:0] data   // Bidirectional data bus 
 );
 
 reg [3:0] buffer [0:15]; // 16 locations, each 4 bits
