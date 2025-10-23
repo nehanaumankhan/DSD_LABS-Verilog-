@@ -12,17 +12,12 @@ always@(posedge clk or posedge rst)
             buffer <= '0;
             d_out <= '0;
         end
-        else if (chip_select) 
-        begin
-            if (write_enable) begin
-                buffer <= d_in;
-                d_out <= buffer;
-            end
-            else if (read_enable)
-                d_out <= buffer;
-            else
-                d_out <= 8'bzzzzzzzz;
-        end
+        else if (chip_select && write_enable) 
+            buffer <= d_in;
+        else if (chip_select && read_enable)
+            d_out <= buffer;
+        else
+            d_out <= 8'bzzzzzzzz;
     end
 
 endmodule
