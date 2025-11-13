@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Oct 31 10:40:53 2025
+# Process ID: 6412
+# Current directory: E:/CS-310/FullAdder/FullAdder.runs/synth_1
+# Command line: vivado.exe -log full_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source full_adder.tcl
+# Log file: E:/CS-310/FullAdder/FullAdder.runs/synth_1/full_adder.vds
+# Journal file: E:/CS-310/FullAdder/FullAdder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder.tcl -notrace

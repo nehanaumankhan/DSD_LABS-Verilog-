@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Oct 31 09:19:35 2025
+# Process ID: 14268
+# Current directory: E:/CS-310/RGB_LEDs/RGB_LEDs.runs/synth_1
+# Command line: vivado.exe -log rgb_led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rgb_led.tcl
+# Log file: E:/CS-310/RGB_LEDs/RGB_LEDs.runs/synth_1/rgb_led.vds
+# Journal file: E:/CS-310/RGB_LEDs/RGB_LEDs.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source rgb_led.tcl -notrace
